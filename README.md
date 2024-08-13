@@ -1,0 +1,2 @@
+# Whatsapp UI Clone with animations
+<p>I recently completed an exciting project: a WhatsApp UI clone with animations, using HTML and CSS. In this project I used various CSS properties, including animations, the `transform` property, the `transition` property, and `::before` and `::after` pseudo-classes.</p>
